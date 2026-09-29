@@ -1,1 +1,1 @@
-# DesarrolloSoftwareSeguro_EgasDominguezQuimbiulco
+# DesarrolloSoftwareSeguro_Egas_Dominguez_Quimbiulco
