@@ -5,6 +5,20 @@
 - Pablo Domínguez
 - Juan Quimbiulco
 
+## Identificación de Activos
+
+- Datos de usuarios
+- Credenciales
+- Catálogo de productos
+- Microservicio de Pedidos
+- API Gateway
+- Servicio de Pago
+- Bases de Datos
+- Logs de Auditoría
+- Microservicio de Usuarios
+- Claves de Cifrado
+
+
 ## Identificación y Clasificación de Activos
 
 | Activo | Tipo | Consecuencia |
